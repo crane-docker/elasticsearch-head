@@ -1,0 +1,7 @@
+network.host: 0.0.0.0
+cluster.name: elasticsearch-crane
+node.name: crane-node1
+path.data: /usr/share/elasticsearch/data/
+script.inline: on
+script.indexed: on
+scirpt.file: on
