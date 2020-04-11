@@ -1,5 +1,5 @@
 # Elasticsearch-head
-Add elasticsearch-head plugin to official elasticsearch. 
+Add elasticsearch-head plugin to official elasticsearch image. 
 
 # Docker script 
 docker run --name es-head -d -p 9200:9200 -p 9300:9300 cranelana/elasticsearch-head
